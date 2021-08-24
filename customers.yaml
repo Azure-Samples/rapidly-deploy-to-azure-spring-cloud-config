@@ -1,7 +1,0 @@
-spring:
-  sql:
-    init:
-      mode: always
-  r2dbc:
-    username: springone
-    url: r2dbc:postgres://springone.postgres.database.azure.com/asc
